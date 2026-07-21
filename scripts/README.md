@@ -10,9 +10,11 @@ Educational short-form video scripts (TikTok / Reels / Shorts) explaining Singap
 - Pin a disclaimer comment on any script touching rates/eligibility, since these change over time
 
 ## Scripts in this series
-1. [BTO vs Resale](01-bto-vs-resale.md)
-2. [ABSD Explained](02-absd-explained.md)
-3. [Freehold vs Leasehold](03-freehold-vs-leasehold.md)
+1. [BTO vs Resale](01-bto-vs-resale.md) — [storyboard](storyboards/01-bto-vs-resale-storyboard.md)
+2. [ABSD Explained](02-absd-explained.md) — [storyboard](storyboards/02-absd-explained-storyboard.md)
+3. [Freehold vs Leasehold](03-freehold-vs-leasehold.md) — [storyboard](storyboards/03-freehold-vs-leasehold-storyboard.md)
+
+Storyboards break each script into a shot-by-shot list (timecode, shot type, visual/action, on-screen text, VO, graphics needed) for filming and editing.
 
 ## Topic backlog (future scripts)
 - CPF Housing Grant: who qualifies and how much
